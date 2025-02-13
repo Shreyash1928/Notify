@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notify/static/css/main.1e7343b8.css",
+    "main.js": "/Notify/static/js/main.40484a1d.js",
+    "index.html": "/Notify/index.html",
+    "main.1e7343b8.css.map": "/Notify/static/css/main.1e7343b8.css.map",
+    "main.40484a1d.js.map": "/Notify/static/js/main.40484a1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e7343b8.css",
+    "static/js/main.40484a1d.js"
+  ]
+}
